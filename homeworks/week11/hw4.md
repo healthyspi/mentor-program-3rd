@@ -7,6 +7,8 @@
 SHA系列 MD4,MD5
 
 ## 請去查什麼是 Session，以及 Session 跟 Cookie 的差別
+Session：一段時間內的狀態紀錄，讓 Request 變成 stateful 的機制
 
+Cookie：實踐 session 機制的一種方法
 
 ##  `include`、`require`、`include_once`、`require_once` 的差別
