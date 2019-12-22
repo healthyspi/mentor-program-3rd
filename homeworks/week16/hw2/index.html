@@ -15,3 +15,23 @@ function Stack(){
 var stack = new Stack()
 
 </script>
+
+<script>
+function Queue(){
+    var arr =[]
+
+    this.push = (n) => {
+        arr.push(n)
+    }
+
+    this.pop = () => {
+        return arr.shift()
+    }
+}
+
+var queue = new Queue()
+queue.push(1)
+queue.push(2)
+console.log(queue.pop()) 
+console.log(queue.pop()) 
+</script>
