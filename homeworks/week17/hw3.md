@@ -20,6 +20,17 @@ console.log('5',a) // 1
 a = 10
 console.log('6',a) // 10
 console.log('7',b) // 100
+
+
+1 undefined
+2 5 
+4 6
+3 20
+5 1
+6 10
+7 100
 ```
 
 答對
+
+
