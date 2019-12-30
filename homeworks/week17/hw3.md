@@ -1,3 +1,5 @@
+
+```js
 var a = 1
 function fn(){
   console.log('1',a) // undefined
@@ -18,5 +20,6 @@ console.log('5',a) // 1
 a = 10
 console.log('6',a) // 10
 console.log('7',b) // 100
+```
 
 答對
